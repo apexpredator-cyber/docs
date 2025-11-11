@@ -1,0 +1,11 @@
+# The appId is the package name of your Android application.
+appId: com.example.happybirthday
+---
+# This is the start of the test flow.
+- launchApp
+
+# Assert that the main greeting text is visible.
+- assertVisible: "Happy Birthday Sam!"
+
+# Assert that the signature text is visible.
+- assertVisible: "From Emma"
