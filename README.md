@@ -1,14 +1,14 @@
-# yehiwasasas
+# yehiwasasasadadad
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
-- Guide pages
+- Guide pagesadadad
 - Navigation
 - Customizations
 - API Reference pages
-- Use of popular components
+- Use of popular componentsadadad
 
-### Development
+### Developmentadadda
 
 Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
 
